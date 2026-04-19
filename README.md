@@ -3,7 +3,7 @@
 🚀 Overview 
   
 This project performs Exploratory Data Analysis (EDA) on a structured sales dataset to uncover insights, identify trends, and su pport data-driven decision-making.
-
+ 
 📂 Dataset Architecture 
 
 ⭐ Star Schema Model
